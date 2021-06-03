@@ -1415,7 +1415,7 @@
   width: 200px;
   height: 120px;
   background: url("https://w7.pngwing.com/pngs/15/1011/png-transparent-re-zero-%E2%88%92-starting-life-in-another-world-r-e-m-drawing-fan-art-anime-anime-cg-artwork-black-hair-cartoon.png") no-repeat;
-  background-size: 100%;
+  background-size: contain;
 }
 :root .app-2rEoOp::after {
   bottom: 20px;
