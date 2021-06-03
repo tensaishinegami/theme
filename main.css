@@ -1399,6 +1399,7 @@
   height: 250px;
   background: url("https://tensaishinegami.github.io/theme/emilia.png") no-repeat;
   background-size: 100%;
+  transform: scaleX(-1);
 }
 :root .app-1q1i1E::after {
   z-index: 0;
