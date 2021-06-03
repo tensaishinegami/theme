@@ -1401,15 +1401,6 @@
   background-size: 100%;
   transform: scaleX(-1);
 }
-:root .app-1q1i1E::after {
-  z-index: 0;
-  left: 50px;
-  bottom: 0;
-  width: 490px;
-  height: 40px;
-  background: url("https://i.imgur.com/KQQWcTY.png") no-repeat;
-  background-size: contain;
-}
 :root .app-2rEoOp::before {
   top: 80px;
   right: 116px;
