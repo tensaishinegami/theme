@@ -1417,6 +1417,7 @@
   height: 90px;
   background: url("https://tensaishinegami.github.io/theme/betty.png");
   background-size: 100%;
+  transform: rotate(-15deg);
 }
 :root .layers-3iHuyZ::before {
   z-index: 0;
