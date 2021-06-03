@@ -1400,6 +1400,7 @@
   background: url("https://tensaishinegami.github.io/theme/emilia.png") no-repeat;
   background-size: 100%;
   transform: scaleX(-1);
+  z-index: 2;
 }
 :root .app-2rEoOp::before {
   top: 80px;
