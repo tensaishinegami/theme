@@ -1407,7 +1407,7 @@
   width: 490px;
   height: 40px;
   background: url("https://i.imgur.com/KQQWcTY.png") no-repeat;
-  background-size: 100%;
+  background-size: contain;
 }
 :root .app-2rEoOp::before {
   top: 80px;
