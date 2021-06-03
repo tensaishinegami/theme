@@ -1393,8 +1393,8 @@
   pointer-events: none;
 }
 :root .app-1q1i1E::before {
-  left: 0;
-  top: 0;
+  right: 350px;
+  top: 40px;
   width: 250px;
   height: 250px;
   background: url("https://tensaishinegami.github.io/theme/emilia.png") no-repeat;
